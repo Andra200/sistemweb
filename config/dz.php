@@ -51,7 +51,7 @@ return [
                 'js/custom.min.js',
                 'js/deznav-init.js',
 			],
-		],
+		], 
 		'pagelevel' => [
 			'css' => [
 				'dashboard_1' => [

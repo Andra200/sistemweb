@@ -16,7 +16,7 @@ class OmahadminController extends Controller
         $data['page_description'] = 'Some description for the page';
         $data['logo']= "images/logo.png";
         $data['logoText']= "images/logo-text.png";
-        $data['action'] = [__FUNCTION__];
+        $data['action'] = ['dashboard_1', 'uc_toastr'];
 
         return view('dashboard.index', compact('data'));
     }

@@ -16,3 +16,4 @@
 			<script src="{{ asset($script) }}" type="text/javascript"></script>
 	@endforeach
 @endif	-->
+@stack('custom_js')

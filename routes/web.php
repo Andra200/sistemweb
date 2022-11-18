@@ -87,3 +87,4 @@ Route::get('/ui-progressbar', 'App\Http\Controllers\OmahadminController@ui_progr
 Route::get('/ui-tab', 'App\Http\Controllers\OmahadminController@ui_tab');
 Route::get('/ui-typography', 'App\Http\Controllers\OmahadminController@ui_typography');
 Route::get('/widget-basic', 'App\Http\Controllers\OmahadminController@widget_basic');
+

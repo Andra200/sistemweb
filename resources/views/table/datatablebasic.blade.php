@@ -1034,8 +1034,8 @@
 													<div class="d-flex">
 														<a href="#" class="btn btn-primary shadow btn-xs sharp mr-1"><i class="fa fa-pencil"></i></a>
 														<a href="#" class="btn btn-danger shadow btn-xs sharp"><i class="fa fa-trash"></i></a>
-													</div>												
-												</td>												
+													</div>
+												</td>
                                             </tr>
                                             <tr>
 												<td><img class="rounded-circle" width="35"  src="{{ asset('images/profile/small/pic2.jpg') }}" alt=""></td>
@@ -1891,7 +1891,7 @@
 															<a class="dropdown-item" href="#">View Details</a>
 														</div>
 													</div>
-												</td>												
+												</td>
                                             </tr>
                                             <tr>
 												<td>
@@ -2509,5 +2509,5 @@
                     </div>
 				</div>
             </div>
-			
+
 @endsection

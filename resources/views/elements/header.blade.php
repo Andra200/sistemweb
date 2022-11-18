@@ -221,7 +221,7 @@
 								<div>
 									<h6 class="mb-1">Chat with Khelesh</h6>
 									<p class="mb-0 text-success">Online</p>
-								</div>							
+								</div>
 								<div class="dropdown">
 									<a href="#" data-toggle="dropdown" ><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18px" height="18px" viewBox="0 0 24 24" version="1.1"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><rect x="0" y="0" width="24" height="24"/><circle fill="#000000" cx="5" cy="12" r="2"/><circle fill="#000000" cx="12" cy="12" r="2"/><circle fill="#000000" cx="19" cy="12" r="2"/></g></svg></a>
 									<ul class="dropdown-menu dropdown-menu-right">
@@ -496,7 +496,7 @@
 		<!--**********************************
             Chat box End
         ***********************************-->
-		
+
 		<!--**********************************
             Header start
         ***********************************-->
